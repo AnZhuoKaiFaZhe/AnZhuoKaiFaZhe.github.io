@@ -4,9 +4,8 @@ title:  "Nuxmv的交互Shell"
 date:   2022-09-12 20:28:21 +0800
 color: rgb(255,90,90)
 cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+subtitle: '1.基本五大操作'
 ---
-{% highlight ruby %}
 ```shell
 1.进入 nuxmv -int
 ```
@@ -22,7 +21,4 @@ subtitle: 'Welcome to Jekyll!'
 ```shell
 5.构建模型 build_model
 ```
-{% endhighlight %}
-
-
 
