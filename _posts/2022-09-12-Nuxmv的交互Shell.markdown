@@ -2,7 +2,6 @@
 layout: post
 title:  "Nuxmv的交互Shell"
 date:   2022-09-12 20:28:21 +0800
-tags: jekyll update
 color: rgb(255,90,90)
 cover: '../assets/test.png'
 subtitle: 'Welcome to Jekyll!'
